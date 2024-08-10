@@ -7,7 +7,15 @@
 } */
 
 /* using type selectors only */
-div p {
+/* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* using both class and type selectors */
+.container p {
     background-color: yellow;
     color: red;
     font-size: 20px;
