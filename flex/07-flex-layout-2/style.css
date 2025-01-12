@@ -59,8 +59,7 @@ li a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 16px;
-  width: 250px;
-  height: 250px;
+  width: 334px;
 }
 
 .container {
@@ -71,8 +70,6 @@ li a {
 .cards {
   padding: 48px;
   display: flex;
-  justify-content: flex-start;
-  align-content: flex-start;
   flex-wrap: wrap;
   gap: 30px;
 }
